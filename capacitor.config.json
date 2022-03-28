@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "RPGTest",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

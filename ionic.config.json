@@ -1,0 +1,8 @@
+{
+  "name": "RPGTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "400d6d6b"
+}
